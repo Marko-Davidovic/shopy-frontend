@@ -4,7 +4,7 @@ module.exports = function (app) {
   app.use(
     '/api',
     createProxyMiddleware({
-      target: 'https://shy-rose-horse-hat.cyclic.app/api',
+      target: 'https://shopy-backend-tpwy.onrender.com/api',
       changeOrigin: true,
     })
   );

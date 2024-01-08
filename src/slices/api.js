@@ -1,4 +1,4 @@
-export const url = "https://shy-rose-horse-hat.cyclic.app/api";
+export const url = "https://shopy-backend-tpwy.onrender.com/api";
 
 export const setHeaders = () => {
   const headers = {
