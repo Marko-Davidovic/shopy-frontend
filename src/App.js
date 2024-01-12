@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="https://mobile-vibe-store.onrender.com">
         <ToastContainer />
         <NavBar />
         <div className="content-container">
